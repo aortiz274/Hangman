@@ -45,3 +45,11 @@ p{
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
 	
 }
+
+#keyboard{
+	margin-left: 100px;
+}
+
+.button{
+	margin-left: 400px;
+}
