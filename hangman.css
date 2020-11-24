@@ -26,7 +26,9 @@ body {
 	float: left;
 	margin-top: 15px;
 	margin-left: 25px;
-	letter-spacing: 4px;}
+	letter-spacing: 4px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
 
 
 header {
@@ -55,6 +57,7 @@ p{
 }
 
 .float-right{
-	margin-left: 330px
+	margin-left: 330px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	
 }
