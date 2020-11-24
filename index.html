@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hangman</title>
+<link href="hangman.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="container"> 
+  <header>
+    <h4 class="logo">Hangman</h4>
+  </header>
+	 <div class="float-right">Wrong Guesses: <span id="mistakes">0</span> of <span id="maxWrong"></span></div>
+	 <div class="text-center">
+		 <img id="hangmanPic" src="images/0.png" alt="">
+		 <p>Guess that animal</p>
+		 <p id="wordSpotlight">The word to be guessed goes here</p>
+    <div id="keyboard"></div>
+    <button class="button btn-info" onClick="reset()">Reset</button>
+  </div> 
+	</div>
+	<script src= "script.js"></script>
+</body>
+</html>
