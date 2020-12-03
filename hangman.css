@@ -49,7 +49,7 @@ p{
 }
 
 #keyboard{
-	margin-left: 700px;
+	position: absolute;
 }
 
 .button{
