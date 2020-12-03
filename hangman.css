@@ -28,6 +28,7 @@ body {
 	margin-left: 25px;
 	letter-spacing: 4px;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 25px
 }
 
 
@@ -49,7 +50,11 @@ p{
 }
 
 #keyboard{
-	position: absolute;
+position: absolute;
+  top: 102%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	
 }
 
 .button{
@@ -57,7 +62,10 @@ p{
 }
 
 .float-right{
-	margin-left: 330px;
+position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	
 }
