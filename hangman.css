@@ -50,9 +50,8 @@ p{
 }
 
 #keyboard{
-	position: absolute;
-	top: 110%;
-	left: 40%;
+	float: left;
+	margin-left: 500px;
 
 }
 
