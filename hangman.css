@@ -50,17 +50,21 @@ p{
 }
 
 #keyboard{
-	
-	
-	
+	position: fixed;
+	top: 50%;
+	left: 40%;
+
 }
 
 .button{
-	
+	float: right;
+	margin-right: 400px
 }
 
 .float-right{
-	padding-top: 10px;
+	padding-top: 20px;
+	text-align: right;
+	margin-right: 50px;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	
 }
