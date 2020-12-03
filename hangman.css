@@ -50,8 +50,8 @@ p{
 }
 
 #keyboard{
-	position: fixed;
-	top: 50%;
+	position: absolute;
+	top: 110%;
 	left: 40%;
 
 }
