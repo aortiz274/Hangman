@@ -50,10 +50,10 @@ p{
 }
 
 #keyboard{
-position: absolute;
-  top: 102%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+	position: absolute;
+ 	top: 102%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
 	
 }
 
@@ -62,10 +62,11 @@ position: absolute;
 }
 
 .float-right{
-position: absolute;
-  top: 15%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+	position: absolute;
+ 	top: 15%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
+	padding-top: 10px;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	
 }
