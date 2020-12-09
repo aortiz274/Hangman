@@ -2,7 +2,7 @@
 var animals = [
 	"lion",
 	"bear",
-	"great white shark",
+	"shark"
 	"fox",
 	"dog",
 	"tiger",
@@ -10,8 +10,8 @@ var animals = [
 	"elk",
 	"panther",
 	"monkey",
-	"sea lion",
-	"polar bear",
+	"deer",
+	"cat",
 	"groundhog",
 	"giraffe",
 ]
