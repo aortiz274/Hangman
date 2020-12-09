@@ -2,7 +2,7 @@
 var animals = [
 	"lion",
 	"bear",
-	"shark"
+	"shark",
 	"fox",
 	"dog",
 	"tiger",
